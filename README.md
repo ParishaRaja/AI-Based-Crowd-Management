@@ -29,7 +29,7 @@ Here are the technologies and tools we used to build our AI solution:
 
 
 ## Project Features and Functionality 
-1) Crowd Management:
+#### Crowd Management:
 
 * Real-time Congestion Detection:
 The system continuously analyzes video feeds to identify areas with high crowd density.
