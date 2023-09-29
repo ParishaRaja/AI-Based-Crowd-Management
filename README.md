@@ -100,6 +100,10 @@ Use even smarter technology to better predict how crowds will move, helping rail
 Make it easier for railway staff to guide people through stations by using AI to suggest better paths and reduce bottlenecks.
 
 
+## Results
+![Alt Text](./output_video.mp4)
+
+
 | Team Member | LinkedIn | Email |
 
 
