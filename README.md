@@ -66,28 +66,28 @@ By analysing the tracked individuals across frames, the system can calculate the
 
 ## Challenges and Solutions 
 
-* Privacy Concerns:
-Challenge: Balancing the benefits of enhanced crowd management with individual privacy rights and compliance with data protection regulations.
+* Privacy Concerns: <br>
+Challenge: Balancing the benefits of enhanced crowd management with individual privacy rights and compliance with data protection regulations. <br>
 Solution: Implement strict access controls, anonymize data, and conduct thorough privacy impact assessments to ensure compliance.
 
-* Real-Time Processing:
-Challenge: Processing and analyzing large volumes of real-time video data for crowd detection and prediction.
+* Real-Time Processing: <br>
+Challenge: Processing and analyzing large volumes of real-time video data for crowd detection and prediction. <br>
 Solution: Utilize high-performance computing resources and optimize algorithms for efficient real-time processing.
 
-* Variability in Crowds:
-Challenge: Adapting to diverse crowd behaviors, densities, and movement patterns in different railway stations and events.
+* Variability in Crowds: <br>
+Challenge: Adapting to diverse crowd behaviors, densities, and movement patterns in different railway stations and events. <br>
 Solution: Train AI models on diverse datasets to account for variations and continuously fine-tune algorithms for accuracy.
 
-* Integration with Existing Infrastructure:
-Challenge: Ensuring seamless integration with the existing CCTV network, railway management systems, and communication infrastructure.
+* Integration with Existing Infrastructure: <br>
+Challenge: Ensuring seamless integration with the existing CCTV network, railway management systems, and communication infrastructure. <br>
 Solution: Collaborate closely with IT and operations teams, conduct thorough testing, and implement robust API interfaces for smooth integration.
 
-* Data Quality and Noise:
-Challenge: Dealing with low-quality video feeds, obscured views, and noise that can affect the accuracy of crowd analysis.
+* Data Quality and Noise: <br>
+Challenge: Dealing with low-quality video feeds, obscured views, and noise that can affect the accuracy of crowd analysis. <br>
 Solution: Apply advanced image preprocessing techniques, use noise reduction algorithms, and consider additional sensors or camera placement adjustments.
 
-* Resource Allocation Optimization:
-Challenge: Effectively allocating resources based on crowd predictions to prevent overcrowding without causing inconvenience.
+* Resource Allocation Optimization: <br>
+Challenge: Effectively allocating resources based on crowd predictions to prevent overcrowding without causing inconvenience. <br>
 Solution: Develop dynamic resource allocation algorithms that consider historical data, live feedback, and real-time adjustments.
 
 
